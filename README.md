@@ -125,36 +125,7 @@ int main() {
 ## OUTPUT:
 
 
-
-
-
 ![439539452-7b37c8b1-e4a9-41a3-8f7c-39240d91164e](https://github.com/user-attachments/assets/5fe322a8-2afd-4a43-aa52-173863c44c2f)
-
-
-
-
-
-
-
-
-
-
-# RESULT:
-The programs are executed successfully.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
